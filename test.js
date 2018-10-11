@@ -1,3 +1,3 @@
 document.getElementById("test").onclick = function() {
-consol.log("test")
+console.log("test")
 }
